@@ -59,6 +59,3 @@ Book     1 ──── N Loan
 
 * PostgreSQL
 * SQL
-
---
-Developed by Nicolly Pereira
